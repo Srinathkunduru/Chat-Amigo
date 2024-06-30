@@ -1,5 +1,4 @@
- # Chat-Amigo
-
+ # Stream-Chat
 ## Overview
 This secure chat application has been developed using React and Firebase, focusing on providing a secure and efficient text-based messaging platform.
 
